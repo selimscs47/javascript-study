@@ -1,0 +1,12 @@
+let var const bunlar değişkenleri belirtir
+console.log() değişkenleri çağırır
+console.error eroor hatası
+console.warn() uyarı verir
+console.clear() yazılan bütün kodları siler
+console.table({}) verilen değişkenleri tabloya alır
+alert() sayfaya uyarı mesajı verir.
+underfined:değişkenin tanımlı olup değerin verilmediği durum.
+
+parseInt: ondalık kısmı siler
+toFixed() virgülden sonra kaç rakam göstersin
+&&: ve demek ||:veya demek
