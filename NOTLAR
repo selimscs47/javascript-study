@@ -10,3 +10,20 @@ underfined:değişkenin tanımlı olup değerin verilmediği durum.
 parseInt: ondalık kısmı siler
 toFixed() virgülden sonra kaç rakam göstersin
 &&: ve demek ||:veya demek
+
+
+if in içindeki parantaze şart yazılır sonra süslü parantez açılır
+else değilse anlamına gelir
+if doğru değilse else çalışır
+ 
+if--> ? ile ifade edilir  
+else--> :  ile ifade edilir
+break döngüden çık komutu verilir.
+switch case den sonra muhakkak break kullanılmalı
+
+for çalışma döngüsüdür
+// for(let i = 0; i < 20; i++) bunun anlamı i yi hep bir arttır 20 ye gelince döngüyü durdur eğer 1 arttırmazsak hep 0 olarak kalacağı için sonsuz döngüye girer
+
+
+break: var olan döngüyü sonlandırır.
+continue: döngüyü devam ettirir.
