@@ -27,3 +27,16 @@ for çalışma döngüsüdür
 
 break: var olan döngüyü sonlandırır.
 continue: döngüyü devam ettirir.
+
+
+GLOBAL: bütün dosya boyunca bilinen değişkenlerdir.
+
+{} => : isimsiz function yerine 
+
+
+.push diziye eleman ekler
+.join elemanları ayırma biçimi belirleme
+.pop son elemanı diziden siler
+.shift ilk elemanı siler
+.unshift dizinin başına eleman ekler
+push ve pup dizinin başı shift ve unshift ise dizinin sonu içindir. 
